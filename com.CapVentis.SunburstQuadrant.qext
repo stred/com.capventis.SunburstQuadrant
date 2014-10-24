@@ -1,0 +1,9 @@
+{
+    "name": "CVL Sunburst Quadrant",
+    "description": "Sunburst Quadrant Chart from CapricornVentis - www.capventis.com",
+    "icon": "pie-chart",
+    "type": "visualization",
+    "version": "1.0",
+    "preview": "pie",
+    "author": "Stephen Redmond"
+}
